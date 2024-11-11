@@ -16,7 +16,7 @@ body{
     font-weight: 400;
     gap:var(--spacing-150);
     height: 100vh;
-    padding:var(--spacing-150);
+    padding:0px var(--spacing-150);
     place-items: center;
 }
 .card{
